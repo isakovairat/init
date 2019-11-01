@@ -1,0 +1,1 @@
+ifconfig en1 ether | tail -1 | awk {'print $2'}
