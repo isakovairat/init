@@ -1,0 +1,2 @@
+graphic session: type login and password, when asked
+ssh: ssh <user>@<ip> and type password when asked
